@@ -8,5 +8,5 @@ The conceptual implementation of balancing is shown in Fig. 1.
 
 <img src="balancing.png" alt="sketch" style="width:20%;"/>
 
-*Fig 1a Balancing scaled down to 0.2 of page width*
+*Fig 1a Balancing scaled to 20% of page width*
 
