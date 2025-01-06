@@ -16,8 +16,3 @@
 - grilled tofu
 - arugula
 - cranberies
-
-# Deserts
-## Apple Pie
-## Creme Brule
-## Ice cream
