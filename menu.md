@@ -10,5 +10,10 @@
 - tomato sauce
 - minced meat (beef of turkey)
 ## Grilled Chicken
+- free range chicken quarters
+- baked potatoes
 ## Vegetarian
 
+# Deserts
+## Apple Pie
+## Creme Brule
