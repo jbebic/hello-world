@@ -13,7 +13,11 @@
 - free range chicken quarters
 - baked potatoes
 ## Vegetarian
+- grilled tofu
+- arugula
+- cranberies
 
 # Deserts
 ## Apple Pie
 ## Creme Brule
+## Ice cream
