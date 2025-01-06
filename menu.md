@@ -15,12 +15,12 @@
 ## Vegetarian
 - grilled tofu
 - arugula
-- cranberies
+- cranberries
 
 # Deserts
 ## Apple Pie
-## Keylime Pie
-## Creme Brule
+## Key lime Pie
+## Creme Brulee
 ## Ice cream
 
 # Wine List
@@ -29,5 +29,5 @@
 - Zinfandel
 - Pinot Noir
 ## Whites
-- Chardonay
+- Chardonnay
 - Pinot Grigio
