@@ -1,11 +1,9 @@
 # Breakfast 
-## Continental
-- toast
-- jam
-- hot drink (coffee or tea)
 
 # Lunch
+
 # Dinner
+
 # Deserts
 
 # Wine List
