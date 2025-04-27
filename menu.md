@@ -17,8 +17,19 @@
 - arugula
 - cranberries
 
+# Dinner
+
 # Deserts
 ## Apple Pie
 ## Key lime Pie
 ## Creme Brulee
 ## Ice cream
+
+# Wine List
+## Reds
+- Cabernet
+- Zinfandel
+- Pinot Noir
+## Whites
+- Chardonnay
+- Pinot Grigio
