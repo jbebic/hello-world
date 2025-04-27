@@ -32,4 +32,5 @@
 - Pinot Noir
 ## Whites
 - Chardonnay
+- Riesling
 - Pinot Grigio
